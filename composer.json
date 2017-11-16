@@ -40,6 +40,6 @@
     "suggest": {
         "elasticsearch/elasticsearch": "Required to use the Elasticsearch engine (^5.0)."
     },
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
