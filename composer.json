@@ -7,7 +7,7 @@
             "type": "package",
             "package": {
                 "name": "paulventura/laravel-scout-elasticsearch",
-                "version": "dev",
+                "version": "dev-master",
                 "source": {
                     "url": "git://github.com:pmventura/laravel-scout-elasticsearch.git",
                     "type": "git",
@@ -40,6 +40,6 @@
     "suggest": {
         "elasticsearch/elasticsearch": "Required to use the Elasticsearch engine (^5.0)."
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "prefer-stable": true
 }
