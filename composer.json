@@ -2,6 +2,20 @@
     "name": "paulventura/laravel-scout-elasticsearch",
     "description": "Elastic Driver for Laravel Scout",
     "keywords": ["laravel", "scout", "elasticsearch", "elastic"],
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "paulventura/laravel-scout-elasticsearch",
+                "version": "dev-master",
+                "source": {
+                    "url": "git://github.com:pmventura/laravel-scout-elasticsearch.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        }
+    ],
     "require": {
         "php": ">=5.6.4",
         "laravel/scout": "^3.0",
